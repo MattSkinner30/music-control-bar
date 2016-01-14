@@ -44,14 +44,10 @@ body {
 }
 
 .album {
-position:absolute;
-top:0;
-left: 0;
-width: 57px;
-}
-
-.time {
-
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 57px;
 }
 
 .time-bar {
@@ -105,8 +101,8 @@ width: 57px;
 
 .control-shuffle {
   position: absolute;
-  left:62px;
-  top:5px;
+  left: 62px;
+  top: 5px;
   font-size: 1rem;
 }
 
@@ -114,7 +110,6 @@ width: 57px;
   position: absolute;
   right: 5px;
   top: 5px;
-
 }
 
 .control-heart {
@@ -122,5 +117,4 @@ width: 57px;
   right: 25px;
   top: 8px;
   font-size: 1rem;
-
 }
